@@ -1,0 +1,22 @@
+.background-red {
+  background-color: red;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.background-green {
+  background-color: green;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.reserveButtons {
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+}
