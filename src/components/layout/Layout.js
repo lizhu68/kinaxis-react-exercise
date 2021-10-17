@@ -11,8 +11,8 @@ const Layout = (props) => {
             Reserve your parking online and SAVE your time.
           </p>
           <p className="lead">
-            You could click fast reserve and quickly reserve a lot, or click on
-            the parking name to the details page to make a lot selection.
+            You could click "Fast Reserve" and quickly reserve a lot, or click
+            on the parking name to the details page to make a lot selection.
           </p>
         </div>
       </div>
